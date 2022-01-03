@@ -1,3 +1,10 @@
+import os
+from os import *
+
+system("pip install tkinter")
+system("pip install socket")
+system("cls")
+
 import tkinter as tk 
 import socket
 
